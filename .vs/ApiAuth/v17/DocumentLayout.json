@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\ApiAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|c:\\users\\pc\\source\\repos\\apiauth\\apiauth\\implementacion\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|solutionrelative:apiauth\\implementacion\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|c:\\users\\pc\\source\\repos\\apiauth\\apiauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|solutionrelative:apiauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|c:\\users\\pc\\source\\repos\\apiauth\\apiauth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|solutionrelative:apiauth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|c:\\users\\pc\\source\\repos\\apiauth\\apiauth\\db\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|solutionrelative:apiauth\\db\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|c:\\users\\pc\\source\\repos\\apiauth\\apiauth\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|solutionrelative:apiauth\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|c:\\users\\pc\\source\\repos\\apiauth\\apiauth\\models\\authentication\\uservalidationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|solutionrelative:apiauth\\models\\authentication\\uservalidationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|c:\\users\\pc\\source\\repos\\apiauth\\apiauth\\models\\authentication\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|solutionrelative:apiauth\\models\\authentication\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|c:\\users\\pc\\source\\repos\\apiauth\\apiauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|solutionrelative:apiauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|c:\\users\\pc\\source\\repos\\apiauth\\apiauth\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|solutionrelative:apiauth\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|c:\\users\\pc\\source\\repos\\apiauth\\apiauth\\models\\authentication\\uservalidationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07721BE7-8BEF-46EC-A50B-7BDEB3A45A71}|ApiAuth\\ApiAuth.csproj|solutionrelative:apiauth\\models\\authentication\\uservalidationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 157,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\Models\\Authentication\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "ApiAuth\\Models\\Authentication\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\Models\\Authentication\\LoginResponse.cs",
+              "RelativeToolTip": "ApiAuth\\Models\\Authentication\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T23:43:35.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserValidationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\Models\\Authentication\\UserValidationResponse.cs",
+              "RelativeDocumentMoniker": "ApiAuth\\Models\\Authentication\\UserValidationResponse.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\Models\\Authentication\\UserValidationResponse.cs",
+              "RelativeToolTip": "ApiAuth\\Models\\Authentication\\UserValidationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T23:41:53.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ApiAuth\\Interface\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "ApiAuth\\Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T23:24:49.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserValidationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\Models\\Authentication\\UserValidationRequest.cs",
+              "RelativeDocumentMoniker": "ApiAuth\\Models\\Authentication\\UserValidationRequest.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\Models\\Authentication\\UserValidationRequest.cs",
+              "RelativeToolTip": "ApiAuth\\Models\\Authentication\\UserValidationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T23:23:13.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ApiAuth\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ApiAuth\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T23:21:56.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\Program.cs",
+              "RelativeDocumentMoniker": "ApiAuth\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\Program.cs",
+              "RelativeToolTip": "ApiAuth\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T23:32:48.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 189,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiAuth\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\appsettings.json",
+              "RelativeToolTip": "ApiAuth\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-21T00:03:11.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ApiAuth\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\WeatherForecast.cs",
+              "RelativeToolTip": "ApiAuth\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T00:00:24.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\DB\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "ApiAuth\\DB\\MyDBContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\DB\\MyDBContext.cs",
+              "RelativeToolTip": "ApiAuth\\DB\\MyDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T23:30:08.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\Implementacion\\AuthService.cs",
+              "RelativeDocumentMoniker": "ApiAuth\\Implementacion\\AuthService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ApiAuth\\ApiAuth\\Implementacion\\AuthService.cs",
+              "RelativeToolTip": "ApiAuth\\Implementacion\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T23:25:00.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
